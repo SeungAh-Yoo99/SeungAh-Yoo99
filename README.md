@@ -73,4 +73,5 @@
   <li>2024.02.17 <strong>삼성 SW역량테스트 Level B - 삼성전자</strong></li>
 </ul>
 
+<!-- solved.ac 프로필 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
