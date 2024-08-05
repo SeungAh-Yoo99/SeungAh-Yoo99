@@ -1,5 +1,5 @@
-## Hi there 👋
-<p>
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=SeungAh's%Github&fontSize=60&fontColor=000000"/></p>
+<p align='center'>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/ysa8497@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <!-- Tistory -->
