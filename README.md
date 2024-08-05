@@ -47,4 +47,10 @@
 </p>
 
 <!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=tokyonight)
+
+<!-- GitHub Stats Card -->
+[![SeungAh-Yoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
+
+<!-- 프로젝트 -->
+## 💾 Projects
