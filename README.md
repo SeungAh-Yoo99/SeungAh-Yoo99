@@ -55,6 +55,15 @@
 <!-- 프로젝트 -->
 <!-- ## 💾 Projects -->
 
+<!-- 알고리즘 역량 -->
+## ⚙️ Algorithm
+<ul>
+  <li>2024.02.17 <strong>삼성 SW역량테스트 Level B - 삼성전자</strong></li>
+</ul>
+
+<!-- solved.ac 프로필 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
+
 <!-- 경험 -->
 <!-- ## 🏃 Experiences -->
 
@@ -66,12 +75,3 @@
   <li>2023.09.13 <strong>OPIc(English) IM1 - ACTFL</strong></li>
   <li>2022.09.03 <strong>Microsoft Certified: Azure Fundamentals(AZ-900) - Microsoft</strong></li>
 </ul>
-
-<!-- 알고리즘 역량 -->
-## ⚙️ Algorithm
-<ul>
-  <li>2024.02.17 <strong>삼성 SW역량테스트 Level B - 삼성전자</strong></li>
-</ul>
-
-<!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
