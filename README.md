@@ -45,5 +45,6 @@
   <img src="https://img.shields.io/badge/Jira-0053CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
+
 <!-- 사용한 언어 순위 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia)
