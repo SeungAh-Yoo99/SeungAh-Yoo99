@@ -1,4 +1,4 @@
-<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=7FC7D9&fontColor=0F1035&height=200&section=header&text=Welcome+to+SeungAh's+Github!👋&fontSize=40"/></p>
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SeungAh's+Github!👋&fontSize=40"/></p>
 <p align='center'>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/ysa8497@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
