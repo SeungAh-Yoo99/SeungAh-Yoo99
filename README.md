@@ -59,7 +59,7 @@
 ## 💾 Projects
 |프로젝트|프로젝트설명|주관처|참고|기간|
 |:---:|:---:|:---:|:---:|:---:|
-|<strong>[발표영상](https://youtu.be/iL6BW8J8apI)<strong>|고객 소비 데이터 분석 및 대시보드 제작|엘라스틱서치코리아,<br>상명대학교|Elastic Training Program<br>팀 프로젝트 대회<br> <strong>표창장</strong>||
+|<strong>[발표영상](https://youtu.be/iL6BW8J8apI)<strong>|고객 소비 데이터 분석 및 대시보드 제작|엘라스틱서치코리아,<br>상명대학교|Elastic Training Program<br>팀 프로젝트 대회<br> <strong>표창장</strong>|2021.05.03 ~ 2021.05.31|
 
 <!-- 알고리즘 역량 -->
 ## ⚙️ Algorithm
