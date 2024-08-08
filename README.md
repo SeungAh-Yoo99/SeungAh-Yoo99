@@ -60,7 +60,7 @@
 |프로젝트|프로젝트설명|기간|주관처|참고|
 |:---:|:---:|:---:|:---:|:---:|
 |<strong>[개밥바라기](https://github.com/Gaebab-Baragi/GaeBabBaragi)<strong>|반려견 수제 간식 레시피 제공<br>웹 서비스|2023.07 ~ 2023.08|삼성 청년<br>SW 아카데미|SSAFY 공통프로젝트<br>UCC경진대회<br><strong>[입상](https://youtu.be/SR19uOLr5lc)</strong>(전체 9위)|
-|<strong>[발표영상](https://youtu.be/iL6BW8J8apI)<strong>|고객 소비 데이터 분석 및 대시보드 제작|2021.05|엘라스틱서치코리아,<br>상명대학교|Elastic Training Program<br>팀 프로젝트 대회<br> <strong>표창장</strong>|
+|<strong>[발표영상](https://youtu.be/iL6BW8J8apI)<strong>|고객 소비 데이터 분석<br>및<br>대시보드 제작|2021.05|엘라스틱서치코리아,<br>상명대학교|Elastic Training Program<br>팀 프로젝트 대회<br> <strong>표창장</strong>|
 |<strong>[summicles](https://github.com/NoPain-NoCode/summicles)<strong>|뉴스 기사 세 줄 요약 페이지|2021.01 ~ 2021.02|상명대학교|2020-겨울학기 상생플러스|
 
 <!-- 알고리즘 역량 -->
