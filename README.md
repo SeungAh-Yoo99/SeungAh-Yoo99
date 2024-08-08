@@ -75,7 +75,13 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
 
 <!-- 경험 -->
-<!-- ## 🏃 Experiences -->
+## 🏃 Experiences
+<ul>
+  <li>2024.07 ~ <strong>우리에프아이에스 아카데미(우리FISA) 3기 - 우리에프아이에스</strong></li>
+  <li>2023.01 ~ 2023.12 <strong>삼성 청년 SW 아카데미(SSAFY) 9기 - 삼성전자</strong></li>
+  <li>2021.02 ~ 2021.02 <strong>Elasticsearch Training - 엘라스틱서치코리아, 상명대학교</strong></li>
+  <li>2018.03 ~ 2022.02 <strong>상명대학교 SW융합학부 컴퓨터과학전공</strong></li>
+</ul>
 
 <!-- 자격증 -->
 ## 📜 Certificates
