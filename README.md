@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SeungAh's+Github!👋&fontSize=40"/>
 </p>
 
-<!-- badge -->
+<!-- Contact badge -->
 <p align='center'><strong>📧Contact</strong></p>
 <p align='center'>
   <!-- gmail -->
@@ -23,6 +23,7 @@
 
 <!-- 기술 스택 -->
 ## 💻 Tech Stacks
+<!-- Backend -->
 <p>
   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 </p>
+<!-- Frontend -->
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -38,6 +40,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
+<!-- Tools -->
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -54,7 +57,9 @@
 
 <!-- 프로젝트 -->
 ## 💾 Projects
-[[발표영상](https://youtu.be/iL6BW8J8apI)] <strong>고객 소비 데이터 분석 및 대시보드 제작</strong> - Elastic Training Program 팀 프로젝트 대회
+|프로젝트|프로젝트설명|주관처|참고|기간|
+|:---:|:---:|:---:|:---:|:---:|
+|<strong>[발표영상](https://youtu.be/iL6BW8J8apI)<strong>|고객 소비 데이터 분석 및 대시보드 제작|엘라스틱서치코리아,<br>상명대학교|Elastic Training Program<br>팀 프로젝트 대회<br> <strong>표창장</strong>||
 
 <!-- 알고리즘 역량 -->
 ## ⚙️ Algorithm
