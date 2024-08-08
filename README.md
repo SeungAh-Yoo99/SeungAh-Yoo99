@@ -53,7 +53,8 @@
 [![SeungAh-Yoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
 
 <!-- 프로젝트 -->
-<!-- ## 💾 Projects -->
+## 💾 Projects
+[[발표영상](https://youtu.be/iL6BW8J8apI)] <strong>고객 소비 데이터 분석 및 대시보드 제작</strong> - Elastic Training Program 팀 프로젝트 대회
 
 <!-- 알고리즘 역량 -->
 ## ⚙️ Algorithm
