@@ -14,8 +14,8 @@
 <!-- About me badge -->
 <p align='center'><strong>👋About me</strong></p>
 <p align='center'>
-<!--   <!-- Portfolio -->
-  <a href="https://substantial-radish-aee.notion.site/YOO-SEUNGAH-f8ec26cbeada4ee48ea40a940330324d?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
+  <!-- Portfolio -->
+<!--   <a href="https://substantial-radish-aee.notion.site/YOO-SEUNGAH-f8ec26cbeada4ee48ea40a940330324d?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
   <!-- Tistory -->
   <a href="https://happybplus.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
   <!-- Instagram -->
