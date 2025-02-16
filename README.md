@@ -45,7 +45,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 <!-- Tools -->
@@ -67,6 +69,7 @@
 ## 💾 Projects
 |프로젝트|프로젝트설명|기간|주관처|참고|
 |:---:|:---:|:---:|:---:|:---:|
+|<strong>[윗비트래블](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|여행 공동 지출 관리 및 자동 정산<br>서비스|2024.10 ~ 2024.12|우리FIS<br>아카데미|프로젝트 <strong>우수상<strong>|
 |<strong>[Board-collie](https://github.com/S09P31A104/board-collie)<strong>|보드게임 추천 및 튜토리얼 제공<br>서비스|2023.10 ~ 2023.11|삼성 청년<br>SW 아카데미||
 |<strong>[TikTagTalk](https://github.com/Under-Dog-s-Rebellion/TikTagTalk)<strong>|소비습관 분석 SNS 융합<br>핀테크 서비스|2023.08 ~ 2023.10|삼성 청년<br>SW 아카데미||
 |<strong>[개밥바라기](https://github.com/Gaebab-Baragi/GaeBabBaragi)<strong>|반려견 수제 간식 레시피 제공<br>웹 서비스|2023.07 ~ 2023.08|삼성 청년<br>SW 아카데미|SSAFY 공통프로젝트<br>UCC경진대회<br><strong>[입상](https://youtu.be/SR19uOLr5lc)</strong>(전체 9위)|
@@ -76,6 +79,7 @@
 <!-- 알고리즘 역량 -->
 ## ⚙️ Algorithm
 <ul>
+  <li>2024.08.18 <strong>PCCP Lv2|580점 - programmers</strong></li>
   <li>2024.02.17 <strong>삼성 SW역량테스트 Level B - 삼성전자</strong></li>
 </ul>
 
@@ -85,7 +89,7 @@
 <!-- 경험 -->
 ## 🏃 Experiences
 <ul>
-  <!-- <li>2024.07 ~ <strong>우리에프아이에스 아카데미(우리FISA) 3기 - 우리에프아이에스</strong></li> -->
+  <li>2024.07 ~ 2024.12 <strong>우리에프아이에스 아카데미(우리FISA) 3기 - 우리에프아이에스</strong></li>
   <li>2023.01 ~ 2023.12 <strong>삼성 청년 SW 아카데미(SSAFY) 9기 - 삼성전자</strong></li>
   <li>2021.02 ~ 2021.02 <strong>Elasticsearch Training - 엘라스틱서치코리아, 상명대학교</strong></li>
   <li>2018.03 ~ 2022.02 <strong>상명대학교 SW융합학부 컴퓨터과학전공</strong></li>
