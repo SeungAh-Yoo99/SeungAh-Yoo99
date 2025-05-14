@@ -78,10 +78,9 @@
 
 <!-- 알고리즘 역량 -->
 ## ⚙️ Algorithm
-<ul>
-  <li>2024.08.18 <strong>PCCP Lv2|580점 - programmers</strong></li>
-  <li>2024.02.17 <strong>삼성 SW역량테스트 Level B - 삼성전자</strong></li>
-</ul>
+- 2024.08 ~ 2025.02 <strong>알고리즘 스터디 운영 - [알고리즘 지옥](https://github.com/SeungAh-Yoo99/Hell-of-Algorithms)</strong>
+- 2024.08.18 <strong>PCCP Lv2|580점 - programmers</strong>
+- 2024.02.17 <strong>삼성 SW역량테스트 Level B - 삼성전자</strong>
 
 <!-- solved.ac 프로필 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
